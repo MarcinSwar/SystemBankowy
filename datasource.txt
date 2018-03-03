@@ -1,0 +1,3 @@
+CLIENT;Jan;Kowalski;12345678910;warszawa;Kruczq;1
+ACCOUNT;1;100
+ACCOUNT;2;150
